@@ -1,12 +1,12 @@
-name = "Blank"
+name = "hugo-theme-hourlyjournal"
 license = "MIT"
-licenselink = "https://github.com/vimux/blank/blob/master/LICENSE"
-description = "Starter Hugo theme for developers."
-homepage = "https://github.com/vimux/blank/"
+licenselink = "https://github.com/yingw787/hugo-theme-hourlyjournal/blob/master/LICENSE"
+description = "Theme for configuring my hourly journal, based on https://danluu.com"
+homepage = "https://github.com/yingw787/hugo-theme-hourlyjournal"
 tags = ["blog", "plain", "blank", "starter", "development"]
 features = ["blog"]
 min_version = "0.20"
 
 [author]
-  name = "Vimux"
-  homepage = "https://github.com/vimux"
+  name = "Ying Wang"
+  homepage = "https://yingw787.com"
