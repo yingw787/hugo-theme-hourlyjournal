@@ -1,4 +1,10 @@
 p {
+    display: inline-block;
+    width: 100%;
+    line-height: 0.5em;
+}
+
+.summary {
     display: inline;
     padding-left: 1em;
 }
@@ -9,11 +15,15 @@ a {
 }
 
 html {
-    color: #586e75;
-    line-height: 2em;
+    color: #93a1a1;
+    font-family: "Helvetica";
 }
 
 h3 {
+    color: #93a1a1;
+}
+
+time {
     color: #93a1a1;
 }
 
