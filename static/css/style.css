@@ -4,6 +4,19 @@ p {
 }
 
 a {
-    color: blue;
+    color: #268bd2;
     text-decoration: none;
+}
+
+html {
+    color: #586e75;
+    line-height: 2em;
+}
+
+h3 {
+    color: #93a1a1;
+}
+
+body {
+    background-color: #002b36;
 }
