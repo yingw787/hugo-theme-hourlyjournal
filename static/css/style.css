@@ -7,6 +7,12 @@ p {
 .summary {
     display: inline;
     padding-left: 1em;
+    line-height: 2em;
+}
+
+.fixed-width {
+    display: inline-block;
+    min-width: 6em;
 }
 
 a {
